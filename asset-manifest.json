@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Little-Lemon-Restaurant/static/css/main.e6c13ad2.css",
-    "main.js": "/Little-Lemon-Restaurant/static/js/main.60e0ee7d.js",
+    "main.js": "/Little-Lemon-Restaurant/static/js/main.1ecd531e.js",
     "static/js/60.e7d3f766.chunk.js": "/Little-Lemon-Restaurant/static/js/60.e7d3f766.chunk.js",
     "static/js/684.30b0dc63.chunk.js": "/Little-Lemon-Restaurant/static/js/684.30b0dc63.chunk.js",
-    "static/js/713.2fa4103c.chunk.js": "/Little-Lemon-Restaurant/static/js/713.2fa4103c.chunk.js",
+    "static/js/713.e756a234.chunk.js": "/Little-Lemon-Restaurant/static/js/713.e756a234.chunk.js",
     "static/js/547.e0583b6a.chunk.js": "/Little-Lemon-Restaurant/static/js/547.e0583b6a.chunk.js",
     "static/js/232.c5b7e6fa.chunk.js": "/Little-Lemon-Restaurant/static/js/232.c5b7e6fa.chunk.js",
     "static/js/453.ec5418df.chunk.js": "/Little-Lemon-Restaurant/static/js/453.ec5418df.chunk.js",
@@ -31,10 +31,10 @@
     "index.html": "/Little-Lemon-Restaurant/index.html",
     "static/media/Basket.svg": "/Little-Lemon-Restaurant/static/media/Basket.fae9b50adb46a3bfa9273d6c25dc3935.svg",
     "main.e6c13ad2.css.map": "/Little-Lemon-Restaurant/static/css/main.e6c13ad2.css.map",
-    "main.60e0ee7d.js.map": "/Little-Lemon-Restaurant/static/js/main.60e0ee7d.js.map",
+    "main.1ecd531e.js.map": "/Little-Lemon-Restaurant/static/js/main.1ecd531e.js.map",
     "60.e7d3f766.chunk.js.map": "/Little-Lemon-Restaurant/static/js/60.e7d3f766.chunk.js.map",
     "684.30b0dc63.chunk.js.map": "/Little-Lemon-Restaurant/static/js/684.30b0dc63.chunk.js.map",
-    "713.2fa4103c.chunk.js.map": "/Little-Lemon-Restaurant/static/js/713.2fa4103c.chunk.js.map",
+    "713.e756a234.chunk.js.map": "/Little-Lemon-Restaurant/static/js/713.e756a234.chunk.js.map",
     "547.e0583b6a.chunk.js.map": "/Little-Lemon-Restaurant/static/js/547.e0583b6a.chunk.js.map",
     "232.c5b7e6fa.chunk.js.map": "/Little-Lemon-Restaurant/static/js/232.c5b7e6fa.chunk.js.map",
     "453.ec5418df.chunk.js.map": "/Little-Lemon-Restaurant/static/js/453.ec5418df.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.60e0ee7d.js"
+    "static/js/main.1ecd531e.js"
   ]
 }
